@@ -1,0 +1,27 @@
+div {
+  background: #222;
+  margin-bottom: 20px;
+  color: white;
+}
+
+img {
+  max-width: 100%;
+}
+
+/* Code Under This Line */
+
+.short {
+  height: 100px;
+}
+
+.tall {
+  height: 200px;
+}
+
+html, body {
+  height: 100%;
+}
+
+.giant {
+  height: 100%;
+}
