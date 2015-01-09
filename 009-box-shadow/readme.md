@@ -1,5 +1,5 @@
 # Box Shadow
-Use border radius to create misc shapes.
+Use box shadow! [CSS-Tricks on Box-Shadow](http://css-tricks.com/snippets/css/css-box-shadow)
 
 ## Style
 * Add custom CSS to app.css
