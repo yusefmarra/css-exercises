@@ -15,6 +15,6 @@ This blog uses fixed widths. Translate all widths to be fluid.
 * Add custom CSS to app.css
 
 ## Server
-1. In the terminal, `cd` into the `006-floats-clearfix` directory
+1. In the terminal, `cd` into the `015-rwd directory
 1. Run `python -m SimpleHTTPServer` to start a server
 1. Visit localhost:8000 to see the index page
