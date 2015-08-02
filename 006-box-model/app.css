@@ -16,3 +16,35 @@ img {
   #222
   #7BBADE
 */
+
+.box-model {
+  /*overflow: visible;*/
+  /*display: flex;*/
+  /*justify-content: center;*/
+  /*align-items: center;*/
+  width: 50%;
+}
+.d {
+  background: #7BBADE;
+  padding: 15px;
+  margin: 15px;
+}
+
+.c {
+  background: #222;
+  overflow: auto;
+  margin:15px;
+  padding: 15px;
+}
+
+.b {
+  background: #FF7050;
+  margin: 15px;
+  padding: 15px;
+
+}
+.a {
+  background: #FFED5D;
+  margin: 15px;
+  padding: 15px;
+}

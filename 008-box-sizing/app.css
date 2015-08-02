@@ -21,6 +21,7 @@ div {
 .column {
   float: left;
   width: 25%;
+  box-sizing: border-box;
 }
 
 /* Your Code Goes Under This Line */

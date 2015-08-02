@@ -2,6 +2,7 @@ div {
   background: #222;
   margin-bottom: 20px;
   color: white;
+  overflow: hidden;
 }
 
 img {
@@ -9,3 +10,14 @@ img {
 }
 
 /* Code Under This Line */
+.short {
+  height: 100px;
+}
+
+.tall {
+  height: 200px;
+}
+
+.inside {
+  height: 100%;
+}

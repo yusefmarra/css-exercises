@@ -7,8 +7,23 @@ img {
   max-width: 100%;
 }
 
+div {
+  background: green;
+}
+
 .outside {
   height: 100px;
 }
 
 /* Code Under This Line */
+.foo {
+  background: red;
+}
+
+.bar {
+  background: blue;
+}
+
+.fiz {
+  background: blue;
+}

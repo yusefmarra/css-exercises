@@ -19,3 +19,15 @@ img {
 }
 
 /* Your Code Goes Under This Line */
+.circle {
+  height: 200px;
+  width: 200px;
+  border-radius: 100px;
+  background: black;
+}
+
+.outline {
+  background: white;
+  border: solid black 2px;
+  text-align: center;
+}
